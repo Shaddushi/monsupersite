@@ -1,6 +1,3 @@
 ---
 title: Mon super site
 ---
-[a relative link](intro.md)
-
-
